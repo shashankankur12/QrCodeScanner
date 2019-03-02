@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QrCodeScanner</string>
+
+
+    <string name="title_activity_scan_qr_code">SCAN QR CODE</string>
+    <string name="qc_code_close">CLOSE</string>
+    <string name="qr_code_select_picture">SELECT PICTURE</string>
+    <string name="qr_code_open_flash_light">OPEN FLESH LIGHT</string>
+    <string name="qr_code_close_flash_light">CLOSE FLESH LIGHT</string>
+    <string name="qr_code_auto_scan_notification">AUTO SCAN NOTIFICATION</string>
+    <string name="qr_code_notification">NOTIFICATION</string>
+    <string name="qr_code_camera_not_open">CAMERA NOT OPEN</string>
+    <string name="qr_code_positive_button_know">KNOW</string>
+    <string name="qr_code_positive_button_confirm">CONFIRM</string>
+    <string name="qr_code_could_not_read_qr_code_from_picture">FROM PICTURE</string>
+    <string name="qr_code_could_not_read_qr_code_from_scanner">FROM SCAN</string>
+    <string name="qr_code_camera_not_found">CAMERA NOT FOUND</string>
+</resources>
